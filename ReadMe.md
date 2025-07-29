@@ -17,8 +17,8 @@ I am currently 16 y/o and I have learnt the basics of all the languages and you 
 
 
 Right now, I have created and I liked are...
-1. <a href="">Todo list 📑</a>
-2. <a href="">Notes Webapp 📒</a>
+1. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-2">Todo list 📑</a>
+2. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-3">Notes Webapp 📒</a>
 3. <a href="">Speech To Text 🗣️🎙️</a>
 4. <a href="">BroJarvis 🤖</a>
 
