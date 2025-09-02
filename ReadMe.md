@@ -4,7 +4,7 @@ well I am new in coding and hope that I may create better projects 😎
 
 I have started my coding journey with HTML, CSS and JavaScript
 
-and currently! I have learnt.....<br>
+### and currently! I have learnt.....<br>
 <img src="https://github.com/user-attachments/assets/fb172c22-cd1c-4eda-877c-37a1e9c527ff" alt="HTML" width="50px" height="50px">
 <img src="https://github.com/user-attachments/assets/159cba98-16cd-45f5-af2c-c2936d6d3217" alt="CSS" width="50px" height="50px">
 <img src="https://github.com/user-attachments/assets/74a175f0-fc4c-4252-9ba5-3fd1f0a92c17" alt="JavaScript" width="50px" height="50px">
@@ -31,3 +31,4 @@ Right now, I have created and I liked are...
 
 ### If you have to reach me, these are the ways:-
 * ✉️Email:- <a href="Kajal891bansal@gmail.com" target="_blank">Kajal891bansal@gmail.com</a>
+
