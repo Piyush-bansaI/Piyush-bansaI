@@ -13,13 +13,13 @@ I have started my coding journey with HTML, CSS and JavaScript
 <img src="https://github.com/user-attachments/assets/5c9683ed-2015-4bd5-9d0c-bd0d0609d5b1" title="C Programming" alt="C" width="50px" height="50px">
 
 ### About Me 🚀:-
-I am currently 16 y/o and I have learnt the basics of all the languages and you can also checkout my codes stored in this README.
+I am currently 17 y/o and I have learnt the basics of all the languages and you can also checkout my codes stored in this README.
 
 
 Right now, I have created and I liked are...
 1. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-2">Todo list 📑</a>
 2. <a href="https://github.com/Piyush-bansaI/My-portfolio/tree/main/Project-3">Notes Webapp 📒</a>
-3. <a href="">Speech To Text 🗣️🎙️</a>
+3. <a href="https://github.com/Piyush-bansaI/C_Projects/tree/main/Rock_Paper_Scissor">Rock Paper Scissor Game 🎮</a>
 4. <a href="">BroJarvis 🤖</a>
 
 ## Also, these are my hosted websites. I hope you gonna love it 🖥️:-
@@ -34,3 +34,4 @@ Right now, I have created and I liked are...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-bansaI&repo=My-portfolio&layout=compact&bg_color=121212&title_color=fff&text_color=d6d6d6&border_color=404040)
+
